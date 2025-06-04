@@ -4,7 +4,7 @@ import About from "./components/About";
 import Education from "./components/Education";
 import Experience from "./components/Experience";
 import Skills from "./components/Skills";
-// import Contact from "./components/Contact";
+import Contact from "./components/Contact";
 
 export default function App() {
   return (
@@ -14,7 +14,7 @@ export default function App() {
       <Education />
       <Experience />
       <Skills />
-      {/* <Contact /> */}
+      <Contact />
     </div>
   );
 }
