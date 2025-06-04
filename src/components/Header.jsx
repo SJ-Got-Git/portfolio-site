@@ -10,7 +10,7 @@ export default function Header() {
         <p>📞 +91 81928 57286</p>
         <p>✉️ <a className="underline" href="mailto:sonali.08051999@gmail.com">sonali.08051999@gmail.com</a></p>
         <p>🔗 <a className="underline" href="https://linkedin.com/in/sonalijaiswal" target="_blank">LinkedIn</a></p>
-        <p>🌐 <a className="underline" href="https://bit.ly/3Etr8Sq" target="_blank">Portfolio</a></p>
+        <p>🌐 <a className="underline" href="https://www.behance.net/gallery/206983965/Sonali-Jaiswal" target="_blank">Portfolio</a></p>
       </div>
     </header>
   );
