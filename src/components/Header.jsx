@@ -3,7 +3,7 @@ import React from "react";
 export default function Header() {
   return (
     <header className="bg-white shadow p-4 text-center">
-      <h1 className="title-with-shape"> Jaiswal</h1>
+      <h1 className="text-3xl font-bold">Sonali Jaiswal</h1>
       <p className="text-gray-600">🎬 Senior Video Editor & VFX Artist | AI-Driven Content Specialist</p>
       <div className="mt-2 text-sm text-gray-500">
         <p>📍 Gurugram, Haryana, India</p>
